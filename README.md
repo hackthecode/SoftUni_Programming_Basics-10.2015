@@ -1,2 +1,2 @@
-# SoftUni_Programming_Basics-10.2015
+# SoftUni Programming Basics September 2015
 Homeworks
