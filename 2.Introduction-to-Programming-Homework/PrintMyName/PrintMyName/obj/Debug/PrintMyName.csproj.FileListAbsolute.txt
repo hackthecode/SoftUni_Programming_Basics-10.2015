@@ -1,0 +1,9 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\PrintMyName\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\PrintMyName\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\PrintMyName\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\PrintMyName\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\HackTheCode\Desktop\Домашно2\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\HackTheCode\Desktop\Домашно2\PrintMyName\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\HackTheCode\Desktop\Домашно2\PrintMyName\PrintMyName\obj\Debug\PrintMyName.pdb
