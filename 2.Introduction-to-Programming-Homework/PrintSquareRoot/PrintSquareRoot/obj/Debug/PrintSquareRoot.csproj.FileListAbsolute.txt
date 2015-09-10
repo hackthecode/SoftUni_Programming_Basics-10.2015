@@ -1,0 +1,12 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSquareRoot\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSquareRoot\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSquareRoot\PrintSquareRoot\bin\Debug\PrintSquareRoot.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSquareRoot\PrintSquareRoot\obj\Debug\PrintSquareRoot.csprojResolveAssemblyReference.cache
+c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSquareRoot\PrintSquareRoot\obj\Debug\PrintSquareRoot.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSquareRoot\PrintSquareRoot\obj\Debug\PrintSquareRoot.pdb
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction-to-Programming-Homework\PrintSquareRoot\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe.config
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction-to-Programming-Homework\PrintSquareRoot\PrintSquareRoot\obj\Debug\PrintSquareRoot.exe
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction-to-Programming-Homework\PrintSquareRoot\PrintSquareRoot\obj\Debug\PrintSquareRoot.pdb
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction-to-Programming-Homework\PrintSquareRoot\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction-to-Programming-Homework\PrintSquareRoot\PrintSquareRoot\bin\Debug\PrintSquareRoot.pdb
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction-to-Programming-Homework\PrintSquareRoot\PrintSquareRoot\obj\Debug\PrintSquareRoot.csprojResolveAssemblyReference.cache
