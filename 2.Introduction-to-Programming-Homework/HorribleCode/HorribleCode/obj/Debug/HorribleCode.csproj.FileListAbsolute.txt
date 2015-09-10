@@ -1,0 +1,6 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\HorribleCode\HorribleCode\bin\Debug\HorribleCode.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\HorribleCode\HorribleCode\bin\Debug\HorribleCode.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\HorribleCode\HorribleCode\bin\Debug\HorribleCode.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\HorribleCode\HorribleCode\obj\Debug\HorribleCode.csprojResolveAssemblyReference.cache
+c:\users\hackthecode\documents\visual studio 2015\Projects\HorribleCode\HorribleCode\obj\Debug\HorribleCode.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\HorribleCode\HorribleCode\obj\Debug\HorribleCode.pdb
