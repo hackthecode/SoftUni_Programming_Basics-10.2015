@@ -1,0 +1,5 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\10.Reformat_CSharp_Code\bin\Debug\10.Reformat_CSharp_Code.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\10.Reformat_CSharp_Code\bin\Debug\10.Reformat_CSharp_Code.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\10.Reformat_CSharp_Code\bin\Debug\10.Reformat_CSharp_Code.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\10.Reformat_CSharp_Code\obj\Debug\10.Reformat_CSharp_Code.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\10.Reformat_CSharp_Code\obj\Debug\10.Reformat_CSharp_Code.pdb

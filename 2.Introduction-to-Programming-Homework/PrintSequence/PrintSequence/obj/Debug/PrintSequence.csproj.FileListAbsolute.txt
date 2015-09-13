@@ -1,6 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSequence\PrintSequence\bin\Debug\PrintSequence.exe.config
-c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSequence\PrintSequence\bin\Debug\PrintSequence.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSequence\PrintSequence\bin\Debug\PrintSequence.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSequence\PrintSequence\obj\Debug\PrintSequence.csprojResolveAssemblyReference.cache
-c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSequence\PrintSequence\obj\Debug\PrintSequence.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\PrintSequence\PrintSequence\obj\Debug\PrintSequence.pdb

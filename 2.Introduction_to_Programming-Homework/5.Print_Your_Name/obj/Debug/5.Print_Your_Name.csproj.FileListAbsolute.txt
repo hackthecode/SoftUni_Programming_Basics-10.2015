@@ -1,0 +1,5 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\5.Print_Your_Name\bin\Debug\5.Print_Your_Name.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\5.Print_Your_Name\bin\Debug\5.Print_Your_Name.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\5.Print_Your_Name\bin\Debug\5.Print_Your_Name.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\5.Print_Your_Name\obj\Debug\5.Print_Your_Name.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\5.Print_Your_Name\obj\Debug\5.Print_Your_Name.pdb

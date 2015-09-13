@@ -1,0 +1,5 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\6.Print_Numbers\bin\Debug\6.Print_Numbers.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\6.Print_Numbers\bin\Debug\6.Print_Numbers.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\6.Print_Numbers\bin\Debug\6.Print_Numbers.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\6.Print_Numbers\obj\Debug\6.Print_Numbers.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\6.Print_Numbers\obj\Debug\6.Print_Numbers.pdb
