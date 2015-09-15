@@ -4,3 +4,6 @@ c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Progr
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\4.Hello_World\obj\Debug\4.Hello_World.csprojResolveAssemblyReference.cache
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\4.Hello_World\obj\Debug\4.Hello_World.exe
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\4.Hello_World\obj\Debug\4.Hello_World.pdb
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\4.Hello_World\bin\Debug\4.Hello_World.exe.config
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\4.Hello_World\obj\Debug\4.Hello_World.exe
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\4.Hello_World\obj\Debug\4.Hello_World.pdb

@@ -3,3 +3,6 @@ c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Progr
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\6.Print_Numbers\bin\Debug\6.Print_Numbers.pdb
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\6.Print_Numbers\obj\Debug\6.Print_Numbers.exe
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\6.Print_Numbers\obj\Debug\6.Print_Numbers.pdb
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\6.Print_Numbers\bin\Debug\6.Print_Numbers.exe.config
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\6.Print_Numbers\obj\Debug\6.Print_Numbers.exe
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\6.Print_Numbers\obj\Debug\6.Print_Numbers.pdb

@@ -3,3 +3,6 @@ c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Progr
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\7.Print_First_and_Last_Name\bin\Debug\7.Print_First_and_Last_Name.pdb
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\7.Print_First_and_Last_Name\obj\Debug\7.Print_First_and_Last_Name.exe
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\7.Print_First_and_Last_Name\obj\Debug\7.Print_First_and_Last_Name.pdb
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\7.Print_First_and_Last_Name\bin\Debug\7.Print_First_and_Last_Name.exe.config
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\7.Print_First_and_Last_Name\obj\Debug\7.Print_First_and_Last_Name.exe
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\7.Print_First_and_Last_Name\obj\Debug\7.Print_First_and_Last_Name.pdb

@@ -3,3 +3,6 @@ c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Progr
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\9.Print_a_Sequence\bin\Debug\9.Print_a_Sequence.pdb
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\9.Print_a_Sequence\obj\Debug\9.Print_a_Sequence.exe
 c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\9.Print_a_Sequence\obj\Debug\9.Print_a_Sequence.pdb
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\9.Print_a_Sequence\bin\Debug\9.Print_a_Sequence.exe.config
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\9.Print_a_Sequence\obj\Debug\9.Print_a_Sequence.exe
+C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\9.Print_a_Sequence\obj\Debug\9.Print_a_Sequence.pdb
