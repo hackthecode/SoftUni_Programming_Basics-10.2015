@@ -1,0 +1,6 @@
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.pdb
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\5.BooleanVariable\obj\Debug\5.BooleanVariable.csprojResolveAssemblyReference.cache
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb

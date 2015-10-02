@@ -1,0 +1,5 @@
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.exe.config
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\bin\Debug\9.ExchangeVariableValues.pdb
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\9.ExchangeVariableValues\obj\Debug\9.ExchangeVariableValues.pdb

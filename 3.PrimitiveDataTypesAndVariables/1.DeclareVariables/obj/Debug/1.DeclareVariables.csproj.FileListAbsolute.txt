@@ -1,0 +1,6 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\hackthecode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb

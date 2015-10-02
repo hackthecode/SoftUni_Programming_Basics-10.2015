@@ -1,0 +1,6 @@
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe.config
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.pdb
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.pdb
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.csprojResolveAssemblyReference.cache
