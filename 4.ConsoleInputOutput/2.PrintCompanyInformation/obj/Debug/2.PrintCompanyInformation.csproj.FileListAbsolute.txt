@@ -1,0 +1,5 @@
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.pdb
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.pdb

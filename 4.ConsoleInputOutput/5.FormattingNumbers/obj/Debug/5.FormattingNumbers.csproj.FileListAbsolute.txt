@@ -1,0 +1,5 @@
+C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.exe
+C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.pdb
+C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.exe
+C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.pdb
