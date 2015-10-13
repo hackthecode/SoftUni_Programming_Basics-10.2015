@@ -1,0 +1,5 @@
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe.config
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\11.ExtractBit3\bin\Debug\11.ExtractBit3.pdb
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\11.ExtractBit3\obj\Debug\11.ExtractBit3.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\11.ExtractBit3\obj\Debug\11.ExtractBit3.pdb

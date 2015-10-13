@@ -1,0 +1,5 @@
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.exe.config
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.pdb
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.pdb
