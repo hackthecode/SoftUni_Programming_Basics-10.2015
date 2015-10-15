@@ -1,0 +1,6 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\2.BonusScore\bin\Debug\2.BonusScore.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\2.BonusScore\bin\Debug\2.BonusScore.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\2.BonusScore\bin\Debug\2.BonusScore.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\2.BonusScore\obj\Debug\2.BonusScore.csprojResolveAssemblyReference.cache
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\2.BonusScore\obj\Debug\2.BonusScore.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\2.BonusScore\obj\Debug\2.BonusScore.pdb

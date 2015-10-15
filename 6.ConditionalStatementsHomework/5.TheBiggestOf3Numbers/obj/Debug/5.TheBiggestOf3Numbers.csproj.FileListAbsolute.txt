@@ -1,0 +1,6 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\5.TheBiggestOf3Numbers\bin\Debug\5.TheBiggestOf3Numbers.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\5.TheBiggestOf3Numbers\bin\Debug\5.TheBiggestOf3Numbers.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\5.TheBiggestOf3Numbers\bin\Debug\5.TheBiggestOf3Numbers.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\5.TheBiggestOf3Numbers\obj\Debug\5.TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\5.TheBiggestOf3Numbers\obj\Debug\5.TheBiggestOf3Numbers.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\5.TheBiggestOf3Numbers\obj\Debug\5.TheBiggestOf3Numbers.pdb
