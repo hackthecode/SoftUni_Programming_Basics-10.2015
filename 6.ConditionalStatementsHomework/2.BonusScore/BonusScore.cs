@@ -21,7 +21,7 @@ namespace _2.BonusScore
             {
                 Console.WriteLine(number * 1000);
             }
-            if (number <= 1 || number >= 10)
+            if (number < 1 || number >= 10)
             {
                 Console.WriteLine("ivalid score");
             }
