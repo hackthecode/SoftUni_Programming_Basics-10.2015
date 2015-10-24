@@ -1,0 +1,6 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\Loops\01.NumberFrom1ToN\bin\Debug\01.NumberFrom1ToN.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\Loops\01.NumberFrom1ToN\bin\Debug\01.NumberFrom1ToN.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\Loops\01.NumberFrom1ToN\bin\Debug\01.NumberFrom1ToN.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\Loops\01.NumberFrom1ToN\obj\Debug\01.NumberFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\hackthecode\documents\visual studio 2015\Projects\Loops\01.NumberFrom1ToN\obj\Debug\01.NumberFrom1ToN.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\Loops\01.NumberFrom1ToN\obj\Debug\01.NumberFrom1ToN.pdb
