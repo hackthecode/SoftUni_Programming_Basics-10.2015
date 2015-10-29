@@ -1,8 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\8.Square_Root\bin\Debug\8.Square_Root.exe.config
-c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\8.Square_Root\bin\Debug\8.Square_Root.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\8.Square_Root\bin\Debug\8.Square_Root.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\8.Square_Root\obj\Debug\8.Square_Root.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\Introduction_to_Programming\8.Square_Root\obj\Debug\8.Square_Root.pdb
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\8.Square_Root\bin\Debug\8.Square_Root.exe.config
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\8.Square_Root\obj\Debug\8.Square_Root.exe
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\8.Square_Root\obj\Debug\8.Square_Root.pdb

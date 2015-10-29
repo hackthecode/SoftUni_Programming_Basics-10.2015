@@ -1,0 +1,5 @@
+c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
+c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
+c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
+c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

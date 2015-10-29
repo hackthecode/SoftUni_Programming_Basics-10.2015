@@ -1,6 +1,0 @@
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\15.After_Ten_Years\bin\Debug\15.After_Ten_Years.exe.config
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\15.After_Ten_Years\bin\Debug\15.After_Ten_Years.exe
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\15.After_Ten_Years\bin\Debug\15.After_Ten_Years.pdb
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\15.After_Ten_Years\obj\Debug\15.After_Ten_Years.csprojResolveAssemblyReference.cache
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\15.After_Ten_Years\obj\Debug\15.After_Ten_Years.exe
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\15.After_Ten_Years\obj\Debug\15.After_Ten_Years.pdb

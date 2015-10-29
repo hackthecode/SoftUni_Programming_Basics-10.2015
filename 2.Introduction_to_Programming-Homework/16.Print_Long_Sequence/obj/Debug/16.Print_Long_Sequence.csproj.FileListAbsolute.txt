@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\16.Print_Long_Sequence\bin\Debug\16.Print_Long_Sequence.exe.config
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\16.Print_Long_Sequence\bin\Debug\16.Print_Long_Sequence.exe
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\16.Print_Long_Sequence\bin\Debug\16.Print_Long_Sequence.pdb
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\16.Print_Long_Sequence\obj\Debug\16.Print_Long_Sequence.exe
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\16.Print_Long_Sequence\obj\Debug\16.Print_Long_Sequence.pdb

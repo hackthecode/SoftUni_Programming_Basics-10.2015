@@ -1,0 +1,5 @@
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\IntroductionToProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\IntroductionToProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\IntroductionToProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\IntroductionToProgramming\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+C:\Users\HackTheCode\documents\visual studio 2015\Projects\IntroductionToProgramming\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

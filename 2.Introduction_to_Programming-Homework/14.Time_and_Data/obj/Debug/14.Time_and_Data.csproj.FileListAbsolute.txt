@@ -1,6 +1,0 @@
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\14.Time_and_Data\bin\Debug\14.Time_and_Data.exe.config
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\14.Time_and_Data\bin\Debug\14.Time_and_Data.exe
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\14.Time_and_Data\bin\Debug\14.Time_and_Data.pdb
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\14.Time_and_Data\obj\Debug\14.Time_and_Data.csprojResolveAssemblyReference.cache
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\14.Time_and_Data\obj\Debug\14.Time_and_Data.exe
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\2.Introduction_to_Programming-Homework\14.Time_and_Data\obj\Debug\14.Time_and_Data.pdb
