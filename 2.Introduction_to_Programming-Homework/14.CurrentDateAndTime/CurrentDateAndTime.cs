@@ -11,7 +11,7 @@ namespace _14.CurrentDateAndTime
             Console.OutputEncoding = Encoding.UTF8;
             DateTime timeNow = DateTime.Now;
             // using ToString for correct output
-            Console.WriteLine(timeNow.ToString("dd.mm.yyyy" + " \u0433. " + "HH:mm:ss" + " \u0447."));
+            Console.WriteLine(timeNow.ToString("dd.MM.yyyy" + " \u0433. " + "HH:mm:ss" + " \u0447."));
         }
     }
 }
