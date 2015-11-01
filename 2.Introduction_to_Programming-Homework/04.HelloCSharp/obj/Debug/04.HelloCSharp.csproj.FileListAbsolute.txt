@@ -1,9 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\04.HelloCSharp\obj\Debug\04.HelloCSharp.csprojResolveAssemblyReference.cache
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
-C:\Users\HackTheCode\Documents\GitHub\ProgrammingBasics\IntroductionToProgramming\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
-C:\Users\HackTheCode\Documents\GitHub\ProgrammingBasics\IntroductionToProgramming\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
-C:\Users\HackTheCode\Documents\GitHub\ProgrammingBasics\IntroductionToProgramming\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb

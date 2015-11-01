@@ -1,5 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

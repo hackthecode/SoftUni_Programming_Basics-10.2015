@@ -1,5 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\09.PrintSequence\bin\Debug\09.PrintSequence.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\09.PrintSequence\obj\Debug\09.PrintSequence.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\09.PrintSequence\obj\Debug\09.PrintSequence.pdb

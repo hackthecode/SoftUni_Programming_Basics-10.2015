@@ -1,1 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\IntroductionToProgramming\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
