@@ -1,19 +1,22 @@
 ﻿using System;
 
-class NullValuesArithmetic
+namespace _12.NullValuesArithmetic
 {
-    static void Main()
+    class NullValuesArithmetic
     {
-        // Integer
-        int? someInteger = null;
-        Console.WriteLine("This is the integer with Null value -> " + someInteger);
-        someInteger = 5;
-        Console.WriteLine("This is the integer with value 5 -> " + someInteger);
-        // Floating-point
-        double? someDouble = null;
-        Console.WriteLine("This is the real number with Null value -> " + someDouble);
-        someDouble = 2.5;
-        Console.WriteLine("This is the real number with value 5 -> " + someDouble);
+        static void Main()
+        {
+            // Integer
+            int? someInteger = null;
+            Console.WriteLine("Integer with value null: {0}", someInteger);
+            someInteger = 5;
+            Console.WriteLine("Integer with value 5: {0}", someInteger);
+
+            // Floating-point
+            double? someDouble = null;
+            Console.WriteLine("Double with value null: {0}", someDouble);
+            someDouble = 2.5;
+            Console.WriteLine("Double with value 2.5: {0}", someDouble);
+        }
     }
 }
-

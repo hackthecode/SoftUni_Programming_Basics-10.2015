@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe.config
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.pdb
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.pdb

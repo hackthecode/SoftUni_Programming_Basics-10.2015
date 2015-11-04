@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.exe.config
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.pdb
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.pdb

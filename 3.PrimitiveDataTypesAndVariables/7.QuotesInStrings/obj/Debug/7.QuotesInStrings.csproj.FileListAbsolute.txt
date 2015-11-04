@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.pdb
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.pdb

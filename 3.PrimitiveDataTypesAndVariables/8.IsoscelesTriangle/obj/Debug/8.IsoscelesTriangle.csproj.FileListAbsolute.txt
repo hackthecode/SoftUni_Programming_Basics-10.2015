@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe.config
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.pdb
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.pdb

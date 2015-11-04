@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C0EE5A17-AE35-47D9-AB56-1F8579DD6F90}</ProjectGuid>
+    <ProjectGuid>{4E67211B-11AB-45FB-9B5D-E33B2B1F689B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_12.NullValuesArithmetic</RootNamespace>

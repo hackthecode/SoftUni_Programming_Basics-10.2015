@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe.config
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.pdb
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\3.PrimitiveDataTypesAndVariables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.pdb

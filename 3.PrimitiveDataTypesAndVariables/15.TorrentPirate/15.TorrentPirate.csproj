@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{23BE7BEE-A42E-49B2-BC53-C3F12C39A58C}</ProjectGuid>
+    <ProjectGuid>{BF77C3F2-EF57-430A-91F1-7BEE65787DE6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_10.EmployeeData</RootNamespace>
-    <AssemblyName>10.EmployeeData</AssemblyName>
+    <RootNamespace>_15.TorrentPirate</RootNamespace>
+    <AssemblyName>15.TorrentPirate</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EmployeeData.cs" />
+    <Compile Include="TorrentPirate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
