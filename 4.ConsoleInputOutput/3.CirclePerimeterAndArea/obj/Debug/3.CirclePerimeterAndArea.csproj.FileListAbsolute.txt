@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.pdb
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.exe
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.pdb

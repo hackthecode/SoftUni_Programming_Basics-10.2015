@@ -1,5 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\ConsoleInputOutputHomework\bin\Debug\ConsoleInputOutputHomework.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\ConsoleInputOutputHomework\bin\Debug\ConsoleInputOutputHomework.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\ConsoleInputOutputHomework\obj\Debug\ConsoleInputOutputHomework.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\ConsoleInputOutputHomework\obj\Debug\ConsoleInputOutputHomework.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConsoleInputOutputHomework\ConsoleInputOutputHomework\obj\Debug\1.SummOf3Numbers.csprojResolveAssemblyReference.cache

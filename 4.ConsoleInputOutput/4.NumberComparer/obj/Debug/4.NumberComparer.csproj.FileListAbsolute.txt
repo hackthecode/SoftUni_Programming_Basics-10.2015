@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\4.NumberComparer\bin\Debug\4.NumberComparer.exe
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\4.NumberComparer\bin\Debug\4.NumberComparer.pdb
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\4.NumberComparer\obj\Debug\4.NumberComparer.csprojResolveAssemblyReference.cache
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\4.NumberComparer\obj\Debug\4.NumberComparer.exe
-C:\Users\HackTheCode\Documents\Visual Studio 2015\Projects\ConsoleInputOutputHomework\4.NumberComparer\obj\Debug\4.NumberComparer.pdb
