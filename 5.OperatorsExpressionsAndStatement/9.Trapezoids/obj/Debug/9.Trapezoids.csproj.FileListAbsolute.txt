@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\9.Trapezoids\bin\Debug\9.Trapezoids.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\9.Trapezoids\obj\Debug\9.Trapezoids.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

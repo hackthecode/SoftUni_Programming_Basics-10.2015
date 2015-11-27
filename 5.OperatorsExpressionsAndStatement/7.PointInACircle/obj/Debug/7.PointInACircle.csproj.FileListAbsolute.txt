@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\7.PointInACircle\bin\Debug\7.PointInACircle.exe.config
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\7.PointInACircle\bin\Debug\7.PointInACircle.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\7.PointInACircle\bin\Debug\7.PointInACircle.pdb
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\7.PointInACircle\obj\Debug\7.PointInACircle.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\7.PointInACircle\obj\Debug\7.PointInACircle.pdb

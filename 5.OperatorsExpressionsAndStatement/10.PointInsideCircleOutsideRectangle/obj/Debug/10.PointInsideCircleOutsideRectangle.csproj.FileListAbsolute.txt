@@ -1,5 +1,0 @@
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe.config
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.pdb
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\5.OperatorsExpressionsAndStatement\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.pdb
