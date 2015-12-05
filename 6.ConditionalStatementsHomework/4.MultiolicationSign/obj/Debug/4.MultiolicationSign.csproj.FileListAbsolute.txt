@@ -1,6 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\4.MultiolicationSign\bin\Debug\4.MultiolicationSign.exe.config
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\4.MultiolicationSign\bin\Debug\4.MultiolicationSign.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\4.MultiolicationSign\bin\Debug\4.MultiolicationSign.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\4.MultiolicationSign\obj\Debug\4.MultiolicationSign.csprojResolveAssemblyReference.cache
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\4.MultiolicationSign\obj\Debug\4.MultiolicationSign.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\4.MultiolicationSign\obj\Debug\4.MultiolicationSign.pdb

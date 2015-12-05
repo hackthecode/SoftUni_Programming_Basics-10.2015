@@ -1,9 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\3.CheckPlayCard\bin\Debug\3.CheckPlayCard.exe.config
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\3.CheckPlayCard\bin\Debug\3.CheckPlayCard.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\3.CheckPlayCard\bin\Debug\3.CheckPlayCard.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\3.CheckPlayCard\obj\Debug\3.CheckPlayCard.csprojResolveAssemblyReference.cache
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\3.CheckPlayCard\obj\Debug\3.CheckPlayCard.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\3.CheckPlayCard\obj\Debug\3.CheckPlayCard.pdb
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\6.ConditionalStatementsHomework\3.CheckPlayCard\bin\Debug\3.CheckPlayCard.exe.config
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\6.ConditionalStatementsHomework\3.CheckPlayCard\obj\Debug\3.CheckPlayCard.exe
-C:\Users\HackTheCode\Documents\GitHub\SoftUni_Programming_Basics-10.2015\6.ConditionalStatementsHomework\3.CheckPlayCard\obj\Debug\3.CheckPlayCard.pdb

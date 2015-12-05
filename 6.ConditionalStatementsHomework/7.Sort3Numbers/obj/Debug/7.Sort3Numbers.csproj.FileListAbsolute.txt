@@ -1,5 +1,0 @@
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.exe.config
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.pdb
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\7.Sort3Numbers\obj\Debug\7.Sort3Numbers.exe
-c:\users\hackthecode\documents\visual studio 2015\Projects\ConditionalStatementsHomework\7.Sort3Numbers\obj\Debug\7.Sort3Numbers.pdb
