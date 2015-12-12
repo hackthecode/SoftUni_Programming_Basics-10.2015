@@ -6,7 +6,7 @@ namespace _03.MinMaxSumAverageNumbers
     {
         static void Main()
         {
-            Console.Write("How many numbers will compare?");
+            Console.WriteLine("How many numbers to be compared?");
             int n = int.Parse(Console.ReadLine());
             int minNumber = int.MaxValue;
             int maxNumber = int.MinValue;
@@ -14,7 +14,7 @@ namespace _03.MinMaxSumAverageNumbers
             double avgNumber = 0;
             for (int i = 0; i < n; i++)
             {
-                Console.Write("Enter the number {0}:", i);
+                Console.Write("Enter the number: ");
                 int number = int.Parse(Console.ReadLine());
                 //min
                 minNumber = Math.Min(minNumber, number);

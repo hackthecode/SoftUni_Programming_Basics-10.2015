@@ -23,7 +23,7 @@ namespace _10.OddAndEvenProduct
             {
                 oddProduct *= numbers[j];
             }
- 
+
             for (int k = 1; k < input.Length; k += 2)
             {
                 evenProduct *= numbers[k];

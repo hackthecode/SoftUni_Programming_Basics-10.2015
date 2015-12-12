@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("02.NumbersNotDivisibleBy3and7")]
+[assembly: AssemblyTitle("02.NumbersNotDivisibleBy3And7")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("02.NumbersNotDivisibleBy3and7")]
+[assembly: AssemblyProduct("02.NumbersNotDivisibleBy3And7")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b9d84d54-43d8-4515-8fde-7c9ae37e2654")]
+[assembly: Guid("2047a21c-8ebb-424f-a7a4-546fd7f43c63")]
 
 // Version information for an assembly consists of the following four values:
 //

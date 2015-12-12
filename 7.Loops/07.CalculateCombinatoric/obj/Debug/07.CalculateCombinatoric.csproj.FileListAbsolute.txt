@@ -1,6 +1,0 @@
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\Loops\07.CalculateCombinatoric\bin\Debug\07.CalculateCombinatoric.exe.config
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\Loops\07.CalculateCombinatoric\bin\Debug\07.CalculateCombinatoric.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\Loops\07.CalculateCombinatoric\bin\Debug\07.CalculateCombinatoric.pdb
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\Loops\07.CalculateCombinatoric\obj\Debug\07.CalculateCombinatoric.csprojResolveAssemblyReference.cache
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\Loops\07.CalculateCombinatoric\obj\Debug\07.CalculateCombinatoric.exe
-C:\Users\HackTheCode\documents\visual studio 2015\Projects\Loops\07.CalculateCombinatoric\obj\Debug\07.CalculateCombinatoric.pdb

@@ -1,23 +1,26 @@
 ﻿using System;
 
-namespace _02.NumbersNotDivisibleBy3And7
+namespace _01.NumbersFrom1ToN
 {
-    class NumbersNotDivisibleBy3And7
+    class NumbersFrom1ToN
     {
         static void Main()
         {
             Console.Write("Enter positive integer n: ");
             int n = int.Parse(Console.ReadLine());
+            int i = 1;
 
-            for (int i = 1; i <= n; i++)
+
+            while (i <= n && n > 0)
             {
-                if (i % 3 == 0 || i % 7 == 0)
-                {
-                    continue;
-                }
                 Console.Write("{0} ", i);
+                i++;
             }
             Console.WriteLine();
+            if (n < 1)
+            {
+                Console.WriteLine("Not a valid entry!");
+            }
         }
     }
 }

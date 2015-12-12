@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("16.DecimalToHexadecimal")]
+[assembly: AssemblyTitle("05.CalculateSum")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("16.DecimalToHexadecimal")]
+[assembly: AssemblyProduct("05.CalculateSum")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7a168de8-885d-465b-9eba-2d2c2c1185af")]
+[assembly: Guid("91dd4602-9522-4b4a-9512-a28a16e1477c")]
 
 // Version information for an assembly consists of the following four values:
 //
